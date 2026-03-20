@@ -33,3 +33,12 @@ Version control, also known as Source Control is the practice of tracking and ma
 - **Git Pull**: Downloads changes AND merges them into your current branch.
 
 ---
+
+## Git Rebase (Simple Explanation)
+
+Git rebase moves your branch on top of another branch to keep history clean.
+
+### Command:
+git rebase main
+
+---
