@@ -10,3 +10,10 @@
 Version control, also known as Source Control is the practice of tracking and managing changes to file. It is a system that helps track changes in files over time and it allows developers to collaborate, revert to previous versions, and manage code efficiently.
 
 ---
+
+## Difference Between Git and GitHub
+
+- **Git**: A version control system used to track changes locally.
+- **GitHub**: A cloud platform used to host Git repositories and collaborate online.
+
+---
