@@ -17,3 +17,12 @@ Version control, also known as Source Control is the practice of tracking and ma
 - **GitHub**: A cloud platform used to host Git repositories and collaborate online.
 
 ---
+
+
+## 3 GitHub Alternatives
+
+1. GitLab
+2. Bitbucket
+3. SourceForge
+
+---
