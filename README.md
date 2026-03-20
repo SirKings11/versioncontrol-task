@@ -42,3 +42,10 @@ Git rebase moves your branch on top of another branch to keep history clean.
 git rebase main
 
 ---
+
+## Git Cherry-Pick (Simple Explanation)
+
+Git cherry-pick allows you to take a specific commit from another branch and apply it to your current branch.
+
+## Command:
+git cherry-pick <commit-hash>
