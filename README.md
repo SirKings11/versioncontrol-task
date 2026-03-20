@@ -26,3 +26,10 @@ Version control, also known as Source Control is the practice of tracking and ma
 3. SourceForge
 
 ---
+
+## Difference Between Git Fetch and Git Pull
+
+- **Git Fetch**: Downloads changes from remote but does NOT merge them.
+- **Git Pull**: Downloads changes AND merges them into your current branch.
+
+---
